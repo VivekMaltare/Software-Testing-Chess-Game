@@ -11,7 +11,7 @@ To achieve this:
 4. Used specialized testing tools to identify **DU (definition-use) paths** and **test paths**, focusing on:
    - **All-def path coverage**
    - **All-DU path coverage**
-5. Formulated and wrote comprehensive test cases to ensure thorough coverage and validation of the software's performance.
+5. Formulated and wrote comprehensive test cases using JUnit to ensure thorough coverage and validation of the software's performance.
 
 ---
 
